@@ -1,5 +1,4 @@
-
-
+'use strict';
 
 function makeTransaction(quantity, pricePerDroid) {
   const totalPrice = quantity * pricePerDroid;
